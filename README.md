@@ -1,2 +1,4 @@
 # cs300
-* Taken Fall 2022 with Hobbes LeGault
+* University of Wisconsin-Madison
+* Fall 2022
+* Hobbes LeGault
